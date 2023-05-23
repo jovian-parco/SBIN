@@ -1,0 +1,15 @@
+candy_wrapper
+facemask
+paper_carton
+paper_container
+paper_crumpled
+paper_cup
+paper_sheet
+paper_tissue
+pen
+plastic_bag
+plastic_bottle
+plastic_cup
+plastic_lid
+plastic_straw
+plastic_utensils
